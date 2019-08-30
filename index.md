@@ -4,12 +4,10 @@ title: /about
 permalink: /
 ---
 
-# jekyll-theme-console
+# About Mike
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+Hi, I'm Michael Thramann. I'm a rising senior at Tufts University studying computer science and applied mathematics (both BS). When I'm not in class, I'm usually in the gym training as a member of the Tufts varsity crew team, or in the theater working for the Tufts Drama Department as a lighting engineer. My resume can be found [here](/resume.pdf).
 
-## What is jekyll?
-
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+<br />This summer, I'm working on a Computational Geometry REU with [Diane Souvaine](http://www.cs.tufts.edu/~dls/), [Csaba Toth](http://csabatoth.org/), and [Hugo Akitaya](https://www.eecs.tufts.edu/~halves01/). We're looking at a couple of different problems, including online TSPN, induced component connectedness in redistricting graphs, and feasibility of imprecise plane graphs. In the past, I've done math research related to applications of tensor decompositions and limited-data tomography. For more information regarding past research, see my [research page](/research.html).
+<br />In Spring 2019, I'll be studying abroad at St. Catherine's College, Oxford University. I'm excited to explore computer science through a different academic system, and (hopefully) perfect the art of tea-making.
+<br /> I'm interested in software engineering internships for Summer 2019. While research is fun, I miss making things and hope to do so beyond personal projects. I can be reached [here](mailto:mthramann@gmail.com) if you're hiring.
