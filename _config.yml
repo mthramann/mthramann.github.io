@@ -9,7 +9,7 @@ header_pages:
   - projects.md
   - contact.md
 
-style: light # dark (default) or light
+style: dark # dark (default) or light
 
 # Build settings
 markdown: kramdown
