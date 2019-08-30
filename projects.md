@@ -1,4 +1,8 @@
-## Projects
+---
+layout: page
+title: /projects
+permalink: /projects/
+---
 
 You can use the [editor on GitHub](https://github.com/mthramann/mthramann.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
