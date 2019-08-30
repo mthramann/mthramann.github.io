@@ -1,6 +1,7 @@
-
-
-remote_theme: b2a3e8/jekyll-theme-console
+title: 'Michael Thramann'
+description: "Michael Thramann's personal site"
+baseurl: "/"
+url: "https://mthramann.github.io"
 
 header_pages:
   - index.md
@@ -8,4 +9,8 @@ header_pages:
   - projects.md
   - contact.md
 
-style: dark # dark (default) or light
+style: light # dark (default) or light
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
