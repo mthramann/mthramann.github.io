@@ -5,8 +5,8 @@ url: "https://mthramann.github.io"
 
 header_pages:
   - index.md
-  - research.md
   - projects.md
+  - research.md
   - contact.md
 
 style: dark # dark (default) or light
