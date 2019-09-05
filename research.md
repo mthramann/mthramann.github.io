@@ -3,38 +3,13 @@ layout: page
 title: /research
 permalink: /research/
 ---
-You can use the [editor on GitHub](https://github.com/mthramann/mthramann.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Research
 
-### Markdown
+## [Zoom Video Compression using a Truncated Tensor Singular Value Decomposition](research/DISCposter.pptx)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />The increasing ubiquity of video applications has placed new demands on methods of data storage, transmission, and processing. Specifically, video information can be very memory and computationally intensive, while applications demand faster speeds and more efficient storage. This poster presents the utility of a multilinear tensor approach to compressing zooming video. This is an extension of the use of tensor singular value decompositions (tSVD) beyond classification and recognition problems to approximate large amounts of multi-linear data. I also discuss methods and trade-offs of generalizing a typical compressed Singular Value Decomposition into the tensor class. Lastly, I demonstrate some of these options on sample video to show how memory-savings compare to losses in quality. I ultimately found that memory use can decrease by an order of magnitude, while significantly preserving picture quality. My mentor was [Misha Kilmer](http://emerald.tufts.edu/~mkilme01/).
 
-```markdown
-Syntax highlighted code block
+## [Investigation of Reconstructive Operators for Compton-Scattering Tomography](research/TomographyArticle.pdf)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mthramann/mthramann.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br />In this project I designed, tested, and analyzed backprojective and reconstruction operators for Compton-Scattering Tomography. First, I generated data representative of such scans, and then coded-up and ran different reconstruction operators. I then compared the produced images, sought mathematical explanations for my results, and consulted with my advisor, [Todd Quinto](http://math.tufts.edu/faculty/equinto/). With his feedback, I iterated on previous attempts to try to eliminate numerical noise and reconstructive artifacts. While I wasn’t always completely successful, I did make progress, and in some cases improved on traditional methods of reconstruction.

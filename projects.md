@@ -30,4 +30,4 @@ permalink: /projects/
 
 <br />As a follow-up to this project, I then profiled and refactored the virtual machine to run as efficiently as possible. This was an interesting process because I got to experience where implementation-specific bottlenecks lied, and see the trade-offs between clean abstractions and performance.
 
-<br />This was a partner project with [Thomas Chan](https://github.com/thomaslchan)bas part of the Comp40 course at Tufts University. Due to academic integrity, please contact me if you'd like to see the private repository.
+<br />This was a partner project with [Thomas Chan](https://github.com/thomaslchan) as part of the Comp40 course at Tufts University. Due to academic integrity, please contact me if you'd like to see the private repository.
