@@ -6,10 +6,10 @@ permalink: /
 
 # About Mike
 
-Hi, I'm Michael Thramann. I'm a rising senior at Tufts University studying computer science and applied mathematics (both BS). When I'm not in class, I'm usually in the gym training as a member of the Tufts varsity crew team, or in the theater working for the Tufts Drama Department as a lighting engineer. You can find my [resume here](/resume.pdf).
+<br />Hi, I'm Michael Thramann. I'm a rising senior at Tufts University (BS 2020) studying Computer Science and Applied Mathematics. When I'm not in class, I'm usually training in the gym as a member of the Tufts varsity crew team, or doing work for non-class-related endeavors. You can find my [resume here](/resume.pdf).
 
-<br />This summer, I'm working on a Computational Geometry REU with [Diane Souvaine](http://www.cs.tufts.edu/~dls/), [Csaba Toth](http://csabatoth.org/), and [Hugo Akitaya](https://www.eecs.tufts.edu/~halves01/). We're looking at a couple of different problems, including online TSPN, induced component connectedness in redistricting graphs, and feasibility of imprecise plane graphs. In the past, I've done math research related to applications of tensor decompositions and limited-data tomography. For more information regarding past research, see my [research page](/research.html).
+<br />This past summer, I interned as a software engineer at [Ab Initio](https://www.abinitio.com/en/) in Lexington, MA. I really enjoyed the experience, and I got to work on a couple really cool projects. Before I started my internship, I had the privilege of studying at St. Catherine's College, Oxford University, as a visiting student in Computer Science. I met very brilliant people, and learned a lot too.
 
-<br />In Spring 2019, I'll be studying abroad at St. Catherine's College, Oxford University. I'm excited to explore computer science through a different academic system, and (hopefully) perfect the art of tea-making.
+<br />I'm currently involved in a research group that does very large-scale data processing for urban development and civil engineering research. In the past I've worked on several other funded research projects (both math and CS), including an NSF REU. For more information regarding my research, see my [research page](/research.html).
 
-<br />I'm interested in software engineering internships for Summer 2019. While research is fun, I miss making things and hope to do so beyond personal projects. I can be reached [here](mailto:mthramann@gmail.com) if you're hiring.
+<br />I'm interested in full-time SWE roles in the Bos-Wash corridor. I can be reached [here](mailto:mthramann@gmail.com) if you're hiring.
