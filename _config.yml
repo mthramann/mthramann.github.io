@@ -9,6 +9,8 @@ header_pages:
   - research.md
   - contact.md
 
+footer: 'contact me at <a href="mailto:mthramann@gmail.com">mthramann@gmail.com</a>'
+
 style: dark # dark (default) or light
 
 # Build settings
