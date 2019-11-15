@@ -12,4 +12,4 @@ permalink: /
 
 <br />In the past I've worked on several funded research projects (both math and CS), including an NSF REU. For more information regarding my research, see my [research page](/research).
 
-<br />I'm interested in full-time SWE roles in the Bos-Wash corridor starting in 2020. I can be reached [here](mailto:mthramann@gmail.com) if you're hiring.
+<br />I'll be starting as an Engineering Resident at Google in July 2020. I can be reached [here](mailto:mthramann@gmail.com).
