@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: /lucy
-permalink: /lucy
+permalink: /lucy/
 ---
 
 # For Lucy
@@ -9,4 +9,3 @@ permalink: /lucy
 <br /> Lucy Simon, I am in it! And I love you!
 
 <br /> I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it. I'm in it.
-
